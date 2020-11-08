@@ -1,5 +1,7 @@
 # mongo-go-driver
 
+# 修改源码0.3.0版本，支持Mongo读写分离，使用方式参考最新版本mgo读写分离方式。
+
 MongoDB Driver for Go.
 
 -------------------------
